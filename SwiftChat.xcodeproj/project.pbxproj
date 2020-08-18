@@ -22,7 +22,6 @@
 		67F7563724EBD38300560659 /* ChatViewContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F7563624EBD38300560659 /* ChatViewContoller.swift */; };
 		67F7563924EBD39500560659 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F7563824EBD39500560659 /* WelcomeViewController.swift */; };
 		67F7563C24EBD46B00560659 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F7563B24EBD46B00560659 /* Message.swift */; };
-		67F7563F24EBD60C00560659 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F7563E24EBD60C00560659 /* Constants.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,7 +41,6 @@
 		67F7563624EBD38300560659 /* ChatViewContoller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewContoller.swift; sourceTree = "<group>"; };
 		67F7563824EBD39500560659 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 		67F7563B24EBD46B00560659 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
-		67F7563E24EBD60C00560659 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		81A66771CD66E6BE6BF1FB99 /* Pods-SwiftChat.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftChat.release.xcconfig"; path = "Target Support Files/Pods-SwiftChat/Pods-SwiftChat.release.xcconfig"; sourceTree = "<group>"; };
 		BE20893831544F3B4F9975DA /* Pods_SwiftChat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftChat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -98,7 +96,6 @@
 				67F7562D24EBC0EB00560659 /* Info.plist */,
 				675B23E424EBDC2800A58784 /* GoogleService-Info.plist */,
 				67F7563D24EBD47000560659 /* Model */,
-				67F7563E24EBD60C00560659 /* Constants.swift */,
 			);
 			path = SwiftChat;
 			sourceTree = "<group>";
@@ -272,7 +269,6 @@
 				67F7562024EBC0EA00560659 /* AppDelegate.swift in Sources */,
 				67F7562224EBC0EA00560659 /* SceneDelegate.swift in Sources */,
 				67F7563C24EBD46B00560659 /* Message.swift in Sources */,
-				67F7563F24EBD60C00560659 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
